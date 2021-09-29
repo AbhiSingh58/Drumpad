@@ -1,0 +1,45 @@
+ body {
+            background-color: rgb(161, 100, 100);
+        }
+
+        h2 {
+            color: wheat;
+        }
+
+        .maincont {
+
+            text-align: center;
+        }
+
+        .cont1 {
+            display: inline-block;
+            margin: auto;
+            text-align: center;
+            align-items: center;
+            border-radius: 4px;
+            background-color: rgb(49, 46, 46);
+
+            border: 1px solid rgb(56, 51, 51);
+
+
+        }
+
+        .button {
+            background-color: rgb(41, 44, 46);
+            color: rgb(255, 255, 255);
+            height: 80px;
+            width: 90px;
+            margin: 5px 5px 9px 5px;
+            border-radius: 5px;
+            border: 1px solid white;
+        }
+
+        .button:hover {
+            color: black;
+            background-color: white;
+        }
+
+        #all {
+            display: block;
+            border: 1px solid rgb(49, 46, 46);
+        }
