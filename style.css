@@ -1,4 +1,4 @@
- body {
+  body {
             background-color: rgb(161, 100, 100);
         }
 
@@ -25,7 +25,6 @@
         }
 
         .button {
-            cursor: pointer;
             background-color: rgb(41, 44, 46);
             color: rgb(255, 255, 255);
             height: 80px;
@@ -33,6 +32,7 @@
             margin: 5px 5px 9px 5px;
             border-radius: 5px;
             border: 1px solid white;
+            cursor: pointer;
         }
 
         .button:hover {
